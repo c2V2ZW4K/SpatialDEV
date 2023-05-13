@@ -41,3 +41,23 @@ Capturing a 360-degree view of all the lights emitted from the vacuum spatial wo
 known as an all-sky telescope. This type of telescope typically has a very wide field of view and a curved focal plane that allows it
 to capture images of the entire sky at once.
 To design an all-sky telescope for this purpose, you would need to consider several requirements, including:
+
+ Step 1) Spatial resolution: The telescope would need to be able to capture fine details in the light emitted from the vacuum spatial.
+         This would likely require a high spatial resolution, which would in turn require a large aperture and a high-quality optical system.
+
+ Step 2) Sensitivity: The telescope would need to be sensitive enough to detect very faint light sources.
+         This would require a detector with a high quantum efficiency and low noise, as well as careful control of stray light.
+
+ Step 3) Field of view: The telescope would need to have a very wide field of view to capture the entire sky at once.
+         This would likely require a curved focal plane and specialized optics to correct for distortions.
+ 
+ Step 4) Spectral range: Depending on the characteristics of the light emitted from the vacuum spatial,
+         the telescope may need to be able to capture light across a wide spectral range. This would require a detector with a
+         broad spectral response and specialized filters or dispersive elements in the optical system.
+
+ Step 5) Data handling and storage: Capturing a 360-degree view of the sky would generate a large amount of data,
+         so the telescope would need to be able to handle and store this data efficiently. This would likely require 
+         specialized electronics and software for data acquisition, processing and storage.
+
+Defining these requirements would help guide the design of the all-sky telescope and ensure that it meets the needs of the intended 
+application.
