@@ -152,3 +152,32 @@ general steps to choose a detector:
 Overall, the selection of a detector for a telescope with a broad spectral range is a critical decision that affects the scientific 
 capabilities and performance of the telescope. It is important to carefully evaluate and compare the detector options and consider the 
 telescope's optical system and data handling requirements.
+
+Design the optical system: Design the optical system to maximize the light collection and transmission efficiency and minimize optical
+aberrations and losses. The optical system should also include specialized filters or dispersive elements, such as prisms or gratings,
+to separate the different wavelengths of light.
+Designing the optical system for a telescope that captures the 360-degree view of the sky and vacuum spatial requires careful 
+consideration of several factors, including the telescope's scientific objectives, the desired field of view, the required spatial resolution, 
+and the selected detector's characteristics. Here are some general steps to design the optical system:
+
+   1) Determine the field of view and spatial resolution: Based on the scientific objectives of the telescope, determine the desired field of 
+      view and spatial resolution. The field of view should cover the 360-degree view of the sky, and the spatial resolution should match the 
+      detector's pixel size and the telescope's diffraction limit.
+      
+   2) Choose the primary mirror: Choose a primary mirror with a large aperture and a high surface accuracy to maximize the light collection efficiency
+      and minimize optical aberrations. The mirror material should be selected based on the desired spectral range and thermal stability.
+      
+   3) Select the optical configuration: Select the appropriate optical configuration based on the field of view, spatial resolution, and the 
+      selected detector's characteristics. Common optical configurations for wide-field telescopes include the Ritchey-Chrétien, Dall-Kirkham, and 
+      Schmidt-Cassegrain designs.
+      
+   4) Add specialized filters or dispersive elements: To separate the different wavelengths of light, add specialized filters or dispersive 
+      elements, such as prisms or gratings, to the optical system. The choice of filter or dispersive element depends on the spectral range of 
+      interest and the telescope's scientific objectives.
+      
+   5) Optimize the optical system: Optimize the optical system to minimize optical aberrations and losses and maximize the light transmission 
+      efficiency. This can be done through ray tracing simulations and optical testing.
+
+Overall, designing the optical system for a telescope that captures the 360-degree view of the sky and vacuum spatial requires careful
+consideration of several factors. It is important to choose high-quality optical components and optimize the system's design to maximize
+the telescope's scientific capabilities and performance.
