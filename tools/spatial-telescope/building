@@ -126,3 +126,29 @@ general steps:
 
 Overall, building a telescope with a wide spectral range that captures the 360-degree view of the sky requires careful planning, design, and
 execution, as well as advanced knowledge and skills in optics, electronics, and data analysis.
+
+Choose the detector: Select a detector with a broad spectral response that covers the spectral range of interest. Examples of detectors with
+wide spectral coverage include charge-coupled devices (CCDs), complementary metal-oxide-semiconductor (CMOS) sensors, and photomultiplier tubes (PMTs)
+When selecting a detector for a telescope with a broad spectral range that captures the 360-degree view of the sky and vacuum spatial,
+there are several factors to consider, such as the spectral response, sensitivity, noise, readout speed, and dynamic range. Here are some
+general steps to choose a detector:
+
+  1) Determine the spectral range of interest: Based on the scientific objectives of the telescope and the characteristics of the light emitted
+     from the sources of interest, determine the spectral range of interest.
+     
+  2) Evaluate the detector options: Research the different detector options that have a broad spectral response and cover the desired spectral 
+     range. Examples of such detectors include CCDs, CMOS sensors, and PMTs. Evaluate the specifications and performance characteristics of each 
+     detector option, such as spectral response, quantum efficiency, read noise, dark current, readout speed, and dynamic range.
+
+  3) Consider the telescope's optical system: Consider the optical system of the telescope and its requirements for image quality, spatial 
+     resolution, and focal length. Choose a detector with a pixel size and number of pixels that match the telescope's optical system.
+  
+  4) Consider data handling and storage: Consider the data handling and  storage requirements of the telescope and ensure that the selected 
+     detector is compatible with the data acquisition and processing systems.
+     
+  5) Select the detector: Based on the evaluation and considerations above, select a detector that meets the requirements of the telescope and 
+     provides the desired sensitivity, spectral coverage, and performance characteristics.
+     
+Overall, the selection of a detector for a telescope with a broad spectral range is a critical decision that affects the scientific 
+capabilities and performance of the telescope. It is important to carefully evaluate and compare the detector options and consider the 
+telescope's optical system and data handling requirements.
