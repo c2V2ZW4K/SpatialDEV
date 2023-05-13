@@ -1,0 +1,43 @@
+Creating a spatial telescope involves multiple steps, and it typically 
+requires specialized knowledge in various areas, such as optics, 
+mechanics, electronics, and software. Here are the general steps 
+involved in creating a spatial telescope:
+
+  1) Define the telescope's requirements: Start by defining the telescope's purpose, such as the intended objects to observe, the required spatial
+     resolution, and the expected field of view. These requirements will dictate the telescope's design and components.
+
+  2) Design the telescope's optical system: The optical system includes the primary mirror or lens, the secondary mirror, and any additional lenses 
+     or mirrors required to correct for aberrations. The design must meet the requirements defined in step one.
+     
+  3) Fabricate and assemble the optical components: The mirrors and lenses must be carefully fabricated to the required specifications.
+     The components are then assembled into the telescope's optical system, which must be aligned and tested.
+  
+  4) Design and build the mechanical structure: The telescope's mechanical structure must be designed to support the optical system
+     and allow for precise pointing and tracking. This structure may include a mount, a tripod, and a drive system to move the telescope.
+     
+  5) Install and align the optical system: The optical system is carefully installed in the mechanical structure, and then it must be aligned and
+     collimated to ensure that the light is properly focused on the detector.
+
+  6) Install and test the detector: The detector records the light collected by the telescope, and it must be carefully selected and installed.
+     Once installed, the detector must be tested to ensure that it meets the telescope's requirements.
+   
+  7) Build the control system: The telescope's control system includes the electronics and software required to operate the telescope and collect
+     and analyze data. This system must be designed and built to meet the telescope's requirements.
+     
+  8) Test and calibrate the telescope: Once all components are installed and assembled, the telescope must be carefully tested and calibrated.
+     This process includes testing the pointing and tracking accuracy, characterizing the optical system's performance, and optimizing
+     the detector's settings.
+     
+   9) Commission and operate the telescope: Once the telescope has been tested and calibrated, it is ready for scientific observations.
+      The telescope must be commissioned, which involves verifying its performance and establishing a standard operating procedure.
+      After commissioning, the telescope can be operated to collect data for scientific research.
+
+Creating a spatial telescope is a complex and challenging task that requires specialized expertise and equipment.
+It typically involves collaboration among a team of experts in optics, mechanics, electronics, and software.
+
+Defining the telescope's requirements:
+the purpose is take one view in 360* of each side of telescope capting all lights emitted from vacuum spatial
+Capturing a 360-degree view of all the lights emitted from the vacuum spatial would require a very specialized type of telescope
+known as an all-sky telescope. This type of telescope typically has a very wide field of view and a curved focal plane that allows it
+to capture images of the entire sky at once.
+To design an all-sky telescope for this purpose, you would need to consider several requirements, including:
