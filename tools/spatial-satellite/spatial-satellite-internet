@@ -81,3 +81,30 @@ Overall, designing the satellite is a complex and interdisciplinary process that
 physics, and computer science. The design should be optimized to meet the specific requirements of the mission, while also being lightweight, 
 durable, and reliable in the harsh conditions of space.
 
+Select components: Choose the specific components that will be used to build the satellite, such as the computer hardware, sensors, and 
+cameras. These components should be chosen based on their ability to perform in the harsh conditions of space.
+Selecting the components for a satellite involves carefully choosing hardware, sensors, and other components that can operate reliably in the
+harsh conditions of space. Here are some key components to consider when selecting components for a satellite:
+
+  1) Computer hardware: The computer hardware used in a satellite must be able to operate reliably in the harsh conditions of space, including
+     exposure to radiation and extreme temperatures. This might involve using radiation-hardened processors, memory modules, and other hardware
+     designed specifically for space applications.
+
+  2) Sensors: Sensors are critical components in a satellite, enabling it to collect data and perform its mission objectives. Sensors must be chosen 
+     carefully to ensure they can withstand the harsh conditions of space, and be able to function reliably for extended periods. Examples of 
+     sensors used in satellites include cameras, spectrometers, magnetometers, and accelerometers.
+
+  3) Cameras: Cameras are used in satellites for a wide range of applications, from Earth observation to scientific research. Cameras 
+     must be designed to withstand the harsh conditions of space, including radiation exposure and temperature extremes.
+     They must also be able to capture high-resolution images and transmit them back to Earth.
+
+  4) Networking equipment: The networking equipment used in a satellite is critical to providing internet connectivity to users on the ground.
+     This might include modems, routers, and other networking hardware designed specifically for space applications.
+
+  5) Power systems: The power systems used in a satellite must be designed to  provide reliable and consistent power over an extended period.
+     This might involve using solar panels or other power generation methods, as well as batteries or other energy storage systems.
+
+Overall, selecting the right components for a satellite is critical to its success. Components must be carefully chosen to ensure they can
+operate reliably in the harsh conditions of space, and meet the specific requirements of the mission. This requires expertise in fields such as
+electronics, physics, and aerospace engineering.
+
